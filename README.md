@@ -1,2 +1,5 @@
 # Template0_Ecommerce-Website
-hackathone-2 project given by Sir Zia Khan
+This is Hackathon-2 project<br/>
+Template-0<br/>
+Ecommerce-Desktop-Websiter<br/>
+project from Governor Intiative IT Proramme<br/>
